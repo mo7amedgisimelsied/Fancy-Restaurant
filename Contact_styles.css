@@ -1,0 +1,49 @@
+
+
+header{
+    background-image: url("https://static.vecteezy.com/system/resources/previews/021/036/379/non_2x/beautiful-drawing-with-the-divorces-and-wavy-lines-in-gray-tones-silver-liquid-texture-silver-metallic-surface-abstract-silver-marble-texture-abstract-black-gray-marble-background-fancy-liquify-free-photo.jpg");
+}
+
+
+
+.contact{
+    display: flex;
+    justify-content: center;
+    margin: 4rem 0;
+}
+
+.contact-form { 
+    border-radius: 15px;
+    text-align: left;
+    padding: 30px;
+}
+
+
+.contact-form h3 {
+    font-size: 40px;
+    color: white;
+    margin-bottom: 20px;
+}
+
+.contact-form input, .contact-form textarea, .contact-form button {
+    width: 90%;
+    border: none;
+    border-radius: 8px;
+    margin-bottom: 15px;
+}
+
+.contact-form input, .contact-form textarea {
+    background: rgb(47, 47, 47);
+    padding: 15px;
+    font-size: 14px;
+    color: #ffffff;
+}
+
+.contact-form textarea {
+    resize: none;
+    height: 100px;
+}
+
+.contact-form button:hover {
+    background: #004080;
+}

@@ -1,0 +1,29 @@
+
+
+header{
+    background-image: url("https://img.freepik.com/free-photo/top-view-clipboard-with-copy-space_23-2148567939.jpg?t=st=1735501235~exp=1735504835~hmac=ce3003365fe55c8714edf6a77edf2881c31c1cd07cf5c930d072bca36c732a26&w=996");
+}
+
+
+.story-container{
+    display: flex;
+    gap: 2rem;
+    justify-content: center;
+}
+
+.story-container div{
+    width: 50%;
+}
+
+.pics{
+    margin: 5rem 0;
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+}
+
+.txt{
+    padding: 0.5rem;
+    background-color: #272727;
+    width: 300px;
+}
