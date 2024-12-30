@@ -1,20 +1,18 @@
-
-
-header{
+header {
     background-image: url("https://img.freepik.com/free-photo/twigs-leaves-near-lamp-cutlery_23-2147811213.jpg?t=st=1735501132~exp=1735504732~hmac=0d6e953fde21a42c016f5f0245dfa0e16ff19fba5a2823d71a3fbb7cdea09969&w=1380");
 }
 
 
 
 
-.menu-container{
+.menu-container {
     display: flex;
     gap: 2rem;
     justify-content: center;
     align-items: start;
 }
 
-.item{
+.item {
     display: flex;
     justify-content: space-between;
     align-items: start;

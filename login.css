@@ -1,0 +1,36 @@
+.login {
+    display: flex;
+    justify-content: center;
+}
+
+.login-form {
+    border-radius: 15px;
+    width: 70%;
+    text-align: left;
+    padding: 30px;
+}
+
+.login-form button {
+    width: 100%;
+}
+
+
+.login-form h3 {
+    font-size: 40px;
+    color: white;
+    margin-bottom: 20px;
+}
+
+.login-form input {
+    width: 100%;
+    border: none;
+    border-radius: 8px;
+    margin-bottom: 15px;
+}
+
+.login-form input {
+    background: rgb(47, 47, 47);
+    padding: 15px;
+    font-size: 14px;
+    color: #ffffff;
+}

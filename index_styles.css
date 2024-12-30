@@ -1,27 +1,37 @@
-
-
-header{
+header {
     background-image: url("https://img.freepik.com/free-photo/twig-near-ceramic-cups_23-2147811204.jpg?t=st=1735501308~exp=1735504908~hmac=9c541db78ba2e27895bc7227183ce1a84aa6095f7973d0605e321732906b4c69&w=1380");
 }
-.container{
+
+.container {
     display: flex;
     text-align: left;
     margin-bottom: 4rem;
 }
 
-.cards-container{
+.cards-container {
     display: flex;
+    justify-content: center;
+    gap: 2rem;
 }
 
 
-.welcome p, .welcome h1{
+.welcome p,
+.welcome h1 {
     width: 40rem;
 }
-    
-.welcome{
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        text-align: center;
+
+.welcome {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
 }
-    
+
+.card img {
+    width: 15rem;
+    object-fit: fill;
+}
+
+.card {
+    max-width: 15rem;
+}
